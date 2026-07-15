@@ -156,11 +156,15 @@ images/
 
 ### 📄 Notebook Python
 
-Notebook analisis tersedia pada repository ini.
+Notebook yang berisi proses data cleaning, pelabelan sentimen menggunakan pendekatan rule-based, exploratory data analysis (EDA), serta visualisasi data dapat diakses melalui tautan berikut:
+
+👉 **[Lihat Notebook Python](https://github.com/septabagass/analisis-sentimen-ulasan-produk/blob/main/notebook/Analisis_Sentimen_Ulasan_Produk.ipynb)**
 
 ### 📊 Presentasi
 
-Presentasi hasil analisis dapat diakses pada repository ini.
+Presentasi yang berisi ringkasan proses analisis, visualisasi, insight, dan business recommendation dapat diakses melalui tautan berikut:
+
+👉 **[Lihat Presentasi Analisis](https://github.com/septabagass/analisis-sentimen-ulasan-produk/blob/main/Analisis_Sentimen_Ulasan_Produk_BNSP.pdf)**
 
 ---
 
@@ -173,12 +177,6 @@ Presentasi hasil analisis dapat diakses pada repository ini.
 ├── dataset/
 │   └── dataset_review.csv
 │
-├── images/
-│   ├── trend_review.png
-│   ├── distribusi_sentimen.png
-│   ├── distribusi_rating.png
-│   └── top_produk_negatif.png
-│
 ├── Analisis_Sentimen_Ulasan_Produk.pdf
 ├── README.md
 ```
@@ -189,7 +187,7 @@ Presentasi hasil analisis dapat diakses pada repository ini.
 
 **Septa Bagas Setyawan**
 
-- LinkedIn: https://www.linkedin.com/in/septa-bagas-setyawan
+- LinkedIn: https://www.linkedin.com/in/septabagass/
 - GitHub: https://github.com/septabagass
 
 ---
