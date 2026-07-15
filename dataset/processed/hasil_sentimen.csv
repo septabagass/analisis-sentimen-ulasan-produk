@@ -1,0 +1,101 @@
+review_id,user_id,product_id,review_text,rating,review_date,label_sentimen,bulan
+R1000,U196,P10,tidak sesuai,3,2023-12-14,Negatif,2023-12
+R1001,U122,P19,pelayanan buruk,1,2024-03-14,Negatif,2024-03
+R1002,U188,P18,produk berkualitas,3,2023-05-14,Positif,2023-05
+R1003,U129,P14,cepat sampai,4,2023-01-23,Positif,2023-01
+R1004,U172,P14,harga sesuai,4,2024-08-28,Positif,2024-08
+R1005,U130,P13,pelayanan buruk,5,2024-12-13,Negatif,2024-12
+R1006,U140,P20,Tidak ada ulasan,2,2023-06-15,Netral,2023-06
+R1007,U117,P20,Tidak ada ulasan,1,2024-11-20,Netral,2024-11
+R1008,U194,P10,tidak terlalu buruk,3,2023-01-09,Negatif,2023-01
+R1009,U192,P12,harga sesuai,4,2023-07-30,Positif,2023-07
+R1010,U186,P20,harga sesuai,3,2024-01-01,Positif,2024-01
+R1011,U127,P17,sangat puas,1,2023-12-26,Positif,2023-12
+R1012,U193,P12,Tidak ada ulasan,2,2024-09-20,Netral,2024-09
+R1013,U161,P15,harga sesuai,3,2024-10-20,Positif,2024-10
+R1014,U161,P10,mengecewakan,5,2024-01-09,Negatif,2024-01
+R1015,U172,P15,rusak,1,2023-01-18,Negatif,2023-01
+R1016,U135,P20,pelayanan buruk,3,2023-05-11,Negatif,2023-05
+R1017,U191,P18,harga sesuai,4,2023-06-03,Positif,2023-06
+R1018,U126,P11,terlambat,1,2023-10-10,Negatif,2023-10
+R1019,U190,P14,harga sesuai,3,2023-09-24,Positif,2023-09
+R1020,U125,P18,sangat puas,3,2023-05-20,Positif,2023-05
+R1021,U132,P13,lumayan,5,2024-08-11,Netral,2024-08
+R1022,U168,P14,rusak,5,2023-10-31,Negatif,2023-10
+R1023,U125,P16,pelayanan buruk,4,2023-10-20,Negatif,2023-10
+R1024,U106,P12,sangat puas,3,2024-10-12,Positif,2024-10
+R1025,U130,P18,rusak,1,2023-04-29,Negatif,2023-04
+R1026,U119,P10,lumayan,5,2023-10-20,Netral,2023-10
+R1027,U130,P14,lumayan,3,2024-02-03,Netral,2024-02
+R1028,U172,P19,harga sesuai,3,2023-03-05,Positif,2023-03
+R1029,U188,P18,terlambat,1,2024-04-18,Negatif,2024-04
+R1030,U163,P19,Tidak ada ulasan,5,2023-06-07,Netral,2023-06
+R1031,U111,P14,lumayan,4,2024-12-26,Netral,2024-12
+R1032,U127,P15,mengecewakan,1,2024-01-08,Negatif,2024-01
+R1033,U184,P18,biasa saja,4,2023-09-30,Netral,2023-09
+R1034,U197,P11,rusak,1,2024-07-22,Negatif,2024-07
+R1035,U187,P14,tidak terlalu buruk,1,2023-08-24,Negatif,2023-08
+R1036,U152,P14,bagus,5,2024-07-26,Positif,2024-07
+R1037,U145,P19,tidak terlalu buruk,5,2024-11-07,Negatif,2024-11
+R1038,U102,P15,Tidak ada ulasan,4,2024-09-17,Netral,2024-09
+R1039,U133,P10,tidak terlalu buruk,5,2023-10-21,Negatif,2023-10
+R1040,U136,P18,harga sesuai,3,2023-12-14,Positif,2023-12
+R1041,U107,P10,cukup baik,5,2024-12-15,Netral,2024-12
+R1042,U157,P15,cepat sampai,1,2023-09-27,Positif,2023-09
+R1043,U104,P19,harga sesuai,3,2023-05-28,Positif,2023-05
+R1044,U138,P10,sangat puas,2,2024-11-15,Positif,2024-11
+R1045,U166,P18,harga sesuai,1,2024-08-21,Positif,2024-08
+R1046,U152,P11,tidak terlalu buruk,1,2024-02-24,Negatif,2024-02
+R1047,U199,P15,Tidak ada ulasan,2,2023-07-26,Netral,2023-07
+R1048,U158,P10,cukup baik,4,2024-04-23,Netral,2024-04
+R1049,U193,P19,standar,4,2023-08-02,Netral,2023-08
+R1050,U164,P13,sangat puas,1,2024-03-25,Positif,2024-03
+R1051,U164,P15,tidak sesuai,1,2023-06-06,Negatif,2023-06
+R1052,U127,P18,cepat sampai,3,2024-02-21,Positif,2024-02
+R1053,U182,P11,terlambat,2,2023-04-15,Negatif,2023-04
+R1054,U107,P12,harga sesuai,2,2024-12-28,Positif,2024-12
+R1055,U143,P20,sangat puas,5,2023-06-09,Positif,2023-06
+R1056,U143,P15,tidak terlalu buruk,2,2023-09-17,Negatif,2023-09
+R1057,U143,P20,terlambat,3,2024-08-28,Negatif,2024-08
+R1058,U196,P19,produk berkualitas,2,2024-07-06,Positif,2024-07
+R1059,U125,P19,terlambat,5,2024-07-01,Negatif,2024-07
+R1060,U142,P14,rusak,4,2024-12-13,Negatif,2024-12
+R1061,U135,P16,pelayanan buruk,3,2024-09-05,Negatif,2024-09
+R1062,U185,P10,cepat sampai,1,2024-04-15,Positif,2024-04
+R1063,U181,P12,cukup baik,3,2024-12-05,Netral,2024-12
+R1064,U135,P11,mengecewakan,1,2024-03-06,Negatif,2024-03
+R1065,U143,P17,pelayanan buruk,1,2023-11-25,Negatif,2023-11
+R1066,U127,P11,rusak,4,2023-04-26,Negatif,2023-04
+R1067,U173,P11,biasa saja,4,2023-08-30,Netral,2023-08
+R1068,U154,P15,rusak,2,2023-09-22,Negatif,2023-09
+R1069,U198,P19,mengecewakan,4,2023-02-03,Negatif,2023-02
+R1070,U132,P11,harga sesuai,3,2024-01-31,Positif,2024-01
+R1071,U126,P18,tidak terlalu buruk,1,2024-10-17,Negatif,2024-10
+R1072,U171,P18,cepat sampai,2,2023-02-07,Positif,2023-02
+R1073,U133,P20,produk berkualitas,4,2024-02-27,Positif,2024-02
+R1074,U196,P12,harga sesuai,4,2023-07-09,Positif,2023-07
+R1075,U135,P16,Tidak ada ulasan,3,2023-11-06,Netral,2023-11
+R1076,U132,P14,lumayan,3,2024-12-18,Netral,2024-12
+R1077,U151,P12,Tidak ada ulasan,2,2024-09-26,Netral,2024-09
+R1078,U195,P10,cepat sampai,1,2023-09-07,Positif,2023-09
+R1079,U159,P14,biasa saja,3,2023-11-15,Netral,2023-11
+R1080,U165,P12,tidak sesuai,5,2023-01-01,Negatif,2023-01
+R1081,U177,P15,standar,1,2024-08-07,Netral,2024-08
+R1082,U164,P16,pelayanan buruk,5,2023-11-23,Negatif,2023-11
+R1083,U108,P12,bagus,5,2023-11-17,Positif,2023-11
+R1084,U190,P11,standar,2,2023-09-30,Netral,2023-09
+R1085,U140,P15,pelayanan buruk,3,2023-06-17,Negatif,2023-06
+R1086,U108,P20,rusak,5,2024-08-31,Negatif,2024-08
+R1087,U164,P19,standar,3,2023-11-19,Netral,2023-11
+R1088,U182,P20,rusak,5,2024-04-20,Negatif,2024-04
+R1089,U182,P14,cepat sampai,3,2024-09-05,Positif,2024-09
+R1090,U108,P14,cukup baik,1,2024-07-04,Netral,2024-07
+R1091,U104,P18,bagus,1,2023-03-13,Positif,2023-03
+R1092,U106,P16,terlambat,3,2023-07-16,Negatif,2023-07
+R1093,U158,P14,biasa saja,1,2023-09-09,Netral,2023-09
+R1094,U177,P19,lumayan,4,2023-06-01,Netral,2023-06
+R1095,U189,P20,produk berkualitas,5,2024-08-02,Positif,2024-08
+R1096,U152,P19,sangat puas,3,2023-09-08,Positif,2023-09
+R1097,U143,P20,Tidak ada ulasan,1,2023-05-28,Netral,2023-05
+R1098,U155,P12,Tidak ada ulasan,5,2023-09-17,Netral,2023-09
+R1099,U128,P17,standar,1,2024-06-23,Netral,2024-06
