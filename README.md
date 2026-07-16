@@ -2,9 +2,7 @@
 
 ## 📌 Tentang Proyek
 
-Proyek ini merupakan implementasi analisis sentimen terhadap ulasan produk pada sebuah perusahaan e-commerce sebagai bagian dari Uji Kompetensi BNSP Skema **Ilmuwan Data Muda (Associate Data Scientist)**.
-
-Tujuan utama proyek adalah mengolah data ulasan pelanggan, memberikan label sentimen menggunakan pendekatan **rule-based sentiment analysis**, kemudian menyajikan insight yang dapat digunakan untuk mendukung evaluasi kepuasan pelanggan dan pengambilan keputusan bisnis.
+Proyek ini merupakan implementasi analisis sentimen terhadap ulasan produk pada sebuah perusahaan e-commerce. Proyek ini bertujuan untuk mengolah data ulasan pelanggan, memberikan label sentimen menggunakan pendekatan rule-based sentiment analysis, menganalisis pola sentimen pelanggan, serta menghasilkan insight yang mendukung evaluasi kepuasan pelanggan dan pengambilan keputusan bisnis.
 
 ---
 
