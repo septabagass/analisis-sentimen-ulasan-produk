@@ -41,28 +41,19 @@ Seluruh data dibersihkan sebelum dilakukan analisis lebih lanjut.
 
 ---
 
-## 🔒 Privasi Data
-
-Dataset yang digunakan merupakan dataset untuk keperluan pembelajaran dan uji kompetensi. Tidak terdapat informasi pribadi pelanggan yang dapat digunakan untuk mengidentifikasi individu.
-
----
-
 ## 🛠️ Tools yang Digunakan
 
 - Python
-- Pandas
-- NumPy
-- Matplotlib
 - Google Colab
-- Microsoft PowerPoint
+- Canva
 
 ---
 
 ## 📚 Library Python
 
-- pandas
-- numpy
-- matplotlib.pyplot
+- Pandas
+- NumPy
+- Matplotlib
 
 ---
 
@@ -106,6 +97,7 @@ Analisis dilakukan untuk mengetahui:
 Visualisasi yang dibuat meliputi:
 
 - Tren review per bulan.
+- Distribusi rating.
 - Distribusi label sentimen.
 - Distribusi rating berdasarkan sentimen.
 - Top 5 produk dengan ulasan negatif terbanyak.
@@ -129,6 +121,18 @@ images/
 ├── distribusi_rating.png
 └── top_produk_negatif.png
 ```
+
+## 📊 Visualisasi
+
+| Visualisasi | Preview |
+|-------------|---------|
+| Tren Review Positif per Bulan | ![](images/tren_review_positif.png) |
+| Tren Review Negatif per Bulan | ![](images/tren_review_negatif.png) |
+| Tren Review Netral per Bulan | ![](images/tren_review_netral.png) |
+| Distribusi Label Sentimen | ![](images/distribusi_sentimen.png) |
+| Distribusi Rating | ![](images/distribusi_rating.png) |
+| Distribusi Rating Berdasarkan Label Sentimen | ![](images/distribusi_rating_berdasarkan_sentimen.png) |
+| Top 5 Produk dengan Ulasan Negatif Terbanyak | ![](images/top_produk_negatif.png) |
 
 ---
 
