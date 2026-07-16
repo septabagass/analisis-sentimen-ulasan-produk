@@ -104,24 +104,6 @@ Visualisasi yang dibuat meliputi:
 
 ---
 
-## 📊 Dashboard / Visualisasi
-
-Tambahkan screenshot visualisasi pada folder:
-
-```text
-images/
-```
-
-Contoh:
-
-```
-images/
-├── trend_review.png
-├── distribusi_sentimen.png
-├── distribusi_rating.png
-└── top_produk_negatif.png
-```
-
 ## 📊 Visualisasi
 
 | Visualisasi | Preview |
@@ -173,14 +155,29 @@ Presentasi yang berisi ringkasan proses analisis, visualisasi, insight, dan busi
 ## 📁 Struktur Repository
 
 ```text
-├── notebook/
-│   └── Analisis_Sentimen_Ulasan.ipynb
+analisis-sentimen-ulasan-produk/
 │
 ├── dataset/
-│   └── dataset_review.csv
+│   ├── raw/
+│   │   └── dataset_review.csv
+│   │
+│   └── processed/
+│       └── hasil_sentimen.csv
 │
-├── Analisis_Sentimen_Ulasan_Produk.pdf
-├── README.md
+├── images/
+│   ├── distribusi_rating.png
+│   ├── distribusi_rating_berdasarkan_sentimen.png
+│   ├── distribusi_sentimen.png
+│   ├── top_produk_negatif.png
+│   ├── tren_review_negatif.png
+│   ├── tren_review_netral.png
+│   └── tren_review_positif.png
+│
+├── notebook/
+│   └── Analisis_Sentimen_Ulasan_Produk.ipynb
+│
+├── Analisis_Sentimen_Ulasan_Produk_BNSP.pdf
+└── README.md
 ```
 
 ---
