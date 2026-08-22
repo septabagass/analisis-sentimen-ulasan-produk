@@ -160,7 +160,7 @@ Dashboard interaktif dikembangkan menggunakan Microsoft Power BI untuk menyajika
 
 Presentasi yang berisi ringkasan proses analisis, visualisasi, insight, dan business recommendation dapat diakses melalui tautan berikut:
 
-👉 **[Lihat Presentasi Analisis](https://github.com/septabagass/analisis-sentimen-ulasan-produk/blob/main/Analisis_Sentimen_Ulasan_Produk_BNSP.pdf)**
+👉 **[Lihat Presentasi Analisis](Presentasi_Analisis_Sentimen_Ulasan_Produk_BNSP.pdf)**
 
 ---
 
