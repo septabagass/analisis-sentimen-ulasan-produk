@@ -110,7 +110,8 @@ Visualisasi yang dibuat meliputi:
 
 Dashboard interaktif dikembangkan menggunakan Microsoft Power BI untuk menyajikan hasil analisis sentimen dan membantu memahami pola ulasan pelanggan.
 
-📥 [Unduh Dashboard Power BI](./dashboard/Analisis_Sentimen_Produk.pbix)
+![](dashboard/analisis_sentimen_produk.jpg)
+📥 [Unduh Dashboard Power BI](dashboard/analisis_sentimen_produk.pbix)
 
 ### 📊 Visualisasi Analisis
 
