@@ -111,7 +111,6 @@ Visualisasi yang dibuat meliputi:
 Dashboard interaktif dikembangkan menggunakan Microsoft Power BI untuk menyajikan hasil analisis sentimen dan membantu memahami pola ulasan pelanggan.
 
 ![](dashboard/analisis_sentimen_produk.jpg)
-📥 [Unduh Dashboard Power BI](dashboard/analisis_sentimen_produk.pbix)
 
 ### 📊 Visualisasi Analisis
 
@@ -152,6 +151,10 @@ Dashboard interaktif dikembangkan menggunakan Microsoft Power BI untuk menyajika
 Notebook yang berisi proses data cleaning, pelabelan sentimen menggunakan pendekatan rule-based, exploratory data analysis (EDA), serta visualisasi data dapat diakses melalui tautan berikut:
 
 👉 **[Lihat Notebook Python](https://github.com/septabagass/analisis-sentimen-ulasan-produk/blob/main/notebook/Analisis_Sentimen_Ulasan_Produk.ipynb)**
+
+### 📊 Dashboard Power BI
+
+👉 **[Unduh Dashboard Power BI](dashboard/analisis_sentimen_produk.pbix)**
 
 ### 📊 Presentasi
 
