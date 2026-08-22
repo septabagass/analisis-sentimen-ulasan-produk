@@ -148,7 +148,7 @@ Visualisasi yang dibuat meliputi:
 
 Notebook yang berisi proses data cleaning, pelabelan sentimen menggunakan pendekatan rule-based, exploratory data analysis (EDA), serta visualisasi data dapat diakses melalui tautan berikut:
 
-👉 **[Lihat Notebook Python](https://github.com/septabagass/analisis-sentimen-ulasan-produk/blob/main/notebook/Analisis_Sentimen_Ulasan_Produk.ipynb)**
+👉 **[Lihat Notebook Python](Analisis_Sentimen_Ulasan_Produk.ipynb)**
 
 ### 📊 Dashboard Power BI
 
