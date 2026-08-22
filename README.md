@@ -188,9 +188,7 @@ analisis-sentimen-ulasan-produk/
 │   ├── tren_review_netral.png
 │   └── tren_review_positif.png
 │
-├── notebook/
-│   └── Analisis_Sentimen_Ulasan_Produk.ipynb
-│
+│── Analisis_Sentimen_Ulasan_Produk.ipynb
 ├── Analisis_Sentimen_Ulasan_Produk_BNSP.pdf
 └── README.md
 ```
